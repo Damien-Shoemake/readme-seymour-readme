@@ -1,20 +1,58 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+const generateMarkdown = ({ title, description, installation, usage, tests, credits, license, contributing, github, email }) => 
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
+`# ${title}
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+## Description
 
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+- ${description}
 
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Tests](#tests)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+
+## Installation
+
+- ${installation}
+
+## Usage
+
+- ${usage}
+
+## Credits
+
+- ${credits}
+
+## License
+
+![badmath](https://img.shields.io/github/license/${github}/${title}?style=for-the-badge)
+
+- License template can be found at: (https://choosealicense.com/licenses/${license}/)
+
+
+## Badges
+
+![badmath](https://img.shields.io/github/repo-size/${github}/${title}?style=for-the-badge)
+![badmath](https://img.shields.io/github/languages/count/${github}/${title}?style=for-the-badge)
+
+## Tests
+
+- ${tests}
+
+## Contributing
+
+- ${contributing}
+
+## Questions
+
+Feel free to reach out with any questions at: ${email} or at (https://github.com/${github})
 `;
-}
 
-module.exports = generateMarkdown;
+module.exports = { generateMarkdown };
