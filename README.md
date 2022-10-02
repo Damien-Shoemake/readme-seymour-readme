@@ -30,8 +30,8 @@
 
 ## Usage: 
 
-Link to video demoing app: https://drive.google.com/file/d/13psy8KaDgDmbC_VXMbOniPzjyAYxwjNF/view
-Alternate link if Google drive isn't working: https://watch.screencastify.com/v/h0HF6yTlIKuSkY1LDjMf
+- Link to video demoing app: https://drive.google.com/file/d/13psy8KaDgDmbC_VXMbOniPzjyAYxwjNF/view
+- Alternate link if Google drive isn't working: https://watch.screencastify.com/v/h0HF6yTlIKuSkY1LDjMf
 
 
 ## Credits:
