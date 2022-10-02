@@ -2,7 +2,7 @@
 
 # Description: 
 
-- This project generates README.md files by destructuring objects, utilizing node.js and inquirer. 
+- This project generates README.md files by destructuring objects, utilizing node.js and utilizing inquirer. 
 - This project was designed and built to learn npm, node.js, and coding from the terminal in a more effective way. 
 
 <br>
