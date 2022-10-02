@@ -2,7 +2,7 @@
 
 ## Description
 
-- Readme Generator
+- A simple README.md generator
 
 
 ## Table of Contents
@@ -18,21 +18,21 @@
 
 ## Installation
 
-- npm install and npm install inquirer@8.2.4 in the terminal after downloading node.js
+- -npm install and npm install inquirer@8.2.4 need to typed into the terminal after node.js has been installed
 
 ## Usage
 
-- Follow the prompt, answer questions as best as possible. Use case: Being able to quickly and succintly create a markdown file. 
+- Instructions: Answer the questions thoroughly. Use cases: A quick and simple way to describe a project. 
 
 ## Credits
 
-- Shelby Hernandez 
+- Shelby Hernandez
 
 ## License
 
 ![badmath](https://img.shields.io/github/license/Damien-Shoemake/readme-seymour-readme?style=for-the-badge)
 
-- License template can be found at: (https://choosealicense.com/licenses/MIT/)
+- License template can be found at: (https://choosealicense.com/licenses/Apache/)
 
 
 ## Badges
@@ -46,7 +46,7 @@
 
 ## Contributing
 
-- N/A
+- I would like some API calls to be made in the future. 
 
 ## Questions
 
